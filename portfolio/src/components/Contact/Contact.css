@@ -1,0 +1,86 @@
+#contact{
+    margin-top:100px;
+    text-align:center;
+}
+
+#contact h1{
+
+
+}
+
+#contact .para{
+
+}
+
+#contact .inputbox{
+   color:red;
+   margin-top:70px;
+
+   
+}
+
+.inputbox input{
+    background-color:#3A3D33;
+    margin-top:20px;
+    padding:10px;
+    width:40%;
+    height:40px;
+    color:white;
+    /* box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px; */
+
+}
+
+ .messagebox input{
+
+    margin-top:50px;
+    width:40%;
+    height:150px;
+    background-color:#3A3D33;
+
+    
+
+}
+
+.submit button{
+    margin-top:50px;
+    width:120px;
+    border-radius:10px;
+    border:1px solid #fff;
+    padding:10px;
+    background-color:#fff;
+}
+
+.sociallinks button{
+    border-radius:50%;
+    margin:10px;
+    margin-top:30px;
+    padding:10px;
+}
+
+.sociallinks .fb{
+    background-color:#065273;
+    color:#fff;
+    border:none;
+}
+
+.sociallinks .insta{
+    background-color:#962fbf;
+    color:#fff;
+    border:none;
+
+
+}
+
+.sociallinks .twitter{
+    background-color:#149CD6;
+    color:#fff;
+    border:none;
+}
+
+.sociallinks .youtube{
+    background-color:#E70D0D;
+    color:#fff;
+    border:none;
+
+}
+
